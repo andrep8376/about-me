@@ -16,7 +16,7 @@
 ***My Hobbies*** (the ones highlighted are what im post passionate about)
 - **Basketball**
 - Football
-- **Photography****
+- **Photography**
 - **Sports**
 - **Music**
 - Video Games
@@ -24,3 +24,5 @@
 - adventure
 - cycling
 - **working out**
+
+[This is a link to my Portfolio to check out some of my work](https://andrep8376.github.io/index.html)
